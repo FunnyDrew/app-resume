@@ -58,6 +58,8 @@ group :development, :test do
 
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3', '~> 1.4'
+
+  gem 'html2slim-ruby3', '~> 0.2.1'
 end
 
 group :development do
